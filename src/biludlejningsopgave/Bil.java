@@ -16,6 +16,7 @@ public abstract class Bil {
 
     public String getRegNr() {
 		// Michael was here
+		// Michael was here AGAIN!
         return regNr;
     }
 
