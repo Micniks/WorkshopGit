@@ -17,6 +17,7 @@ public class Garage {
 
     public Garage(String navn) {
 		// Michael Vil Være Ejer af Denne Linje Kode!!!!!!!!!
+        //yo yo -C
         this.navn = navn;
     }
     
