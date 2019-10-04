@@ -8,6 +8,7 @@ public abstract class Bil {
     private int antalDøre;
 
     public Bil(String regNr, String mærke, String årgang, int antalDøre) {
+        //Min kommentar skal vinde! -C
         this.regNr = regNr;
         this.mærke = mærke;
         this.årgang = årgang;
