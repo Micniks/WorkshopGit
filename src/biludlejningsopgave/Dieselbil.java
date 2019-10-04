@@ -12,7 +12,7 @@ public class Dieselbil extends Bil {
         this.harPartikelfilter = harPartikelfilter;
     }
     
-    
+    //Gretha kan ikke lide dieselbiler
     @Override
     public double beregnGrønEjerafgift() {
         double result=0.0;

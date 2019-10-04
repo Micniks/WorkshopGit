@@ -49,6 +49,7 @@ public abstract class Bil {
     }
 
     public void setAntalDøre(int antalDøre) {
+        //pikkemand pikkemand pikkemand hihi
         this.antalDøre = antalDøre;
     }
     public abstract double beregnGrønEjerafgift();
