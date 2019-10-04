@@ -13,6 +13,7 @@ public class Benzinbil extends Bil{
     private double kmPrL;
 
     public Benzinbil(double kmPrL, String regNr, String mærke, String årgang, int antalDøre) {
+        // MICHAEL WAS HERE ONCE AGAIN !!! FEAR ME !!!
         super(regNr, mærke, årgang, antalDøre);
         this.kmPrL = kmPrL;
     }
@@ -22,7 +23,7 @@ public class Benzinbil extends Bil{
         double result=0.0;
         if(kmPrL<5)
             result=10470;
-        else if (kmPrL<10)
+        else if (kmPrL<100)
             result=5500;
         else if(kmPrL<15)
             result=2340;
