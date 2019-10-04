@@ -16,7 +16,10 @@ public class Garage {
     private String navn;
 
     public Garage(String navn) {
+
 		//Vidunderlig constructor <'33
+        //yo yo -C
+
         this.navn = navn;
     }
     
