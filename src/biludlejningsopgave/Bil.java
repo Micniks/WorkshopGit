@@ -8,6 +8,7 @@ public abstract class Bil {
     private int antalDøre;
 
     public Bil(String regNr, String mærke, String årgang, int antalDøre) {
+        // Donald Trump Did Nothing Wrong! Make the Internet Great Again!
         this.regNr = regNr;
         this.mærke = mærke;
         this.årgang = årgang;
