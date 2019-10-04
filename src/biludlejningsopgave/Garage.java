@@ -16,6 +16,7 @@ public class Garage {
     private String navn;
 
     public Garage(String navn) {
+        //yo yo -C
         this.navn = navn;
     }
     
