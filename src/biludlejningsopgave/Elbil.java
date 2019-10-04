@@ -37,7 +37,7 @@ public class Elbil extends Bil {
 
     @Override
     public String toString() {
-        return "Elbil Mærke="+super.getMærke()+ " Årgang="+super.getÅrgang() + "whPrKm=" + whPrKm + ", DIVISIONSFAKTOR=" + DIVISIONSFAKTOR + '}';
+        return "Elbil Mærke="+super.getMærke()+ " Årgang="+super.getÅrgang() + "whPrKm=" + whPrKm + ", DIVISIONSFAKTOR=" + DIVISIONSFAKTOR;
     }
     
 }
