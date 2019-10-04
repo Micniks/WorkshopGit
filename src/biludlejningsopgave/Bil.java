@@ -9,6 +9,8 @@ public abstract class Bil {
 
     public Bil(String regNr, String mærke, String årgang, int antalDøre) {
         //Derka derka muhammed Jihad (Team America: World Police)
+        // Donald Trump Did Nothing Wrong! Make the Internet Great Again!
+
         this.regNr = regNr;
         this.mærke = mærke;
         this.årgang = årgang;
